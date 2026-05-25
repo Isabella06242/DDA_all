@@ -1,0 +1,12 @@
+metric,value
+channel,EMU039_outcome_clipped_bipolar_ch143
+n_class1,49
+n_class2,15
+tau1,35
+tau2,34
+train_auc,0.9166666666666667
+test_auc,0.4257602862254025
+train_acc,0.875
+test_acc,0.7142857142857143
+n_train,8
+n_test,56

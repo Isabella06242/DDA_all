@@ -1,0 +1,12 @@
+metric,value
+channel,EMU038_inspection_clipped_bipolar_ch008
+n_class1,431
+n_class2,431
+tau1,35
+tau2,34
+train_auc,1.0
+test_auc,0.6986546298175276
+train_acc,1.0
+test_acc,0.6159250585480094
+n_train,8
+n_test,854
