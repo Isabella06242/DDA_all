@@ -1,0 +1,11 @@
+patient,channel,test_auc,brain_region
+EMU025,204,0.7354941976790716,Dorsolateral Parietal Cortex
+EMU025,135,0.7338935574229692,Motor Cortex
+EMU025,134,0.7322929171668667,Motor Cortex
+EMU025,209,0.7198879551820728,Unknown
+EMU025,206,0.7086834733893558,Temporal PoleMINUSUndefined
+EMU038,9,0.8193046635477624,outMINUSdorsolateral parietal cortex
+EMU038,53,0.8119498269611526,dorsolateral frontal cortex
+EMU038,10,0.780073383828135,out
+EMU038,177,0.7774617845716317,dorsolateral frontal cortex
+EMU038,26,0.7765358226063874,dorsolateral parietal cortex
