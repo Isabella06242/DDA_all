@@ -1,11 +1,41 @@
-patient,channel,test_auc,brain_region
-EMU025,204,0.7354941976790716,Dorsolateral Parietal Cortex
-EMU025,135,0.7338935574229692,Motor Cortex
-EMU025,134,0.7322929171668667,Motor Cortex
-EMU025,209,0.7198879551820728,Unknown
-EMU025,206,0.7086834733893558,Temporal PoleMINUSUndefined
-EMU038,9,0.8193046635477624,outMINUSdorsolateral parietal cortex
-EMU038,53,0.8119498269611526,dorsolateral frontal cortex
-EMU038,10,0.780073383828135,out
-EMU038,177,0.7774617845716317,dorsolateral frontal cortex
-EMU038,26,0.7765358226063874,dorsolateral parietal cortex
+patient,channel,test_auc,brain_region,channel_name
+EMU024,59,0.670127,Dorsolateral Temporal Cortex,F7 - F6
+EMU024,60,0.656671,Dorsolateral Temporal Cortex,F8 - F7
+EMU024,46,0.645905,Mesial Temporal Cortex,E5 - E4
+EMU024,40,0.637447,Mesial Temporal Cortex,C13 - C12
+EMU024,9,0.632065,Mesial Temporal Cortex,A10 - A9
+EMU025,204,0.7354941976790716,Dorsolateral Parietal Cortex,M12 - M11
+EMU025,135,0.7338935574229692,Motor Cortex,M'12 - M'11
+EMU025,134,0.7322929171668667,Motor Cortex,M'11 - M'10
+EMU025,209,0.7198879551820728,Unknown,
+EMU025,206,0.7086834733893558,Temporal PoleMINUSUndefined,M14 - M13
+EMU030,116,0.573118,Hippocampus,B'2 - B'1
+EMU030,12,0.556351,Temporal PoleMINUSDorsolateral Temporal Cortex,U'13 - U'12
+EMU030,173,0.55156,Dorsolateral Temporal Cortex,X'14 - X'13
+EMU030,154,0.548319,Dorsolateral Temporal Cortex,F'9 - F'8
+EMU030,153,0.546266,Dorsolateral Temporal CortexMINUSOUT,F'8 - F'7
+EMU036,160,0.575882,Mesial Temporal Cortex,F'2 - F'1
+EMU036,64,0.570784,Mesial Temporal Cortex,E'3 - E'2
+EMU036,187,0.570459,Bone/bolt,O'15 - O'14
+EMU036,97,0.570394,Temporal Pole,J'13 - J'12
+EMU036,177,0.569745,Orbitofrontal CortexMINUSMesial Prefrontal Cortex,O'5 - O'4
+EMU037,72,0.564014,Dorsolateral Temporal CortexMINUSMesial Temporal Cortex,F9 - F8
+EMU037,200,0.5514,WM,B'10 - B'9
+EMU037,71,0.548639,Mesial Temporal Cortex,F8 - F7
+EMU037,77,0.545204,Bolt,F14 - F13
+EMU037,149,0.544333,Dorsolateral Parietal Cortex,W7 - W6
+EMU038,10,0.806849,Out,P'left11 - P'left10
+EMU038,53,0.805548,Dorsolateral Prefrontal Cortex,M'left12 - M'left11
+EMU038,9,0.798083,OutMINUSDorsolateral Parietal Cortex,P'left10 - P'left9
+EMU038,51,0.782151,Dorsolateral Prefrontal Cortex,M'left10 - M'left9
+EMU038,26,0.77542,Dorsolateral Parietal Cortex,Z'left13 - Z'left12
+EMU039,88,0.69716,Motor Cortex,M'3 - M'2
+EMU039,52,0.691657,Motor Cortex,Y'9 - Y'8
+EMU039,50,0.689759,Motor Cortex,Y'7 - Y'6
+EMU039,7,0.681084,Motor Cortex,H'8 - H'7
+EMU039,92,0.678081,Motor Cortex,M'7 - M'6
+EMU051,89,0.606861,Dorsolateral Temporal Cortex,O'6 - O'5
+EMU051,140,0.606732,Dorsolateral Temporal Cortex,U'17 - U'16
+EMU051,116,0.599897,Motor Cortex,R'7 - R'6
+EMU051,152,0.592336,WM,V'12 - V'11
+EMU051,28,0.581315,Hippocampus,C'2 - C'1
